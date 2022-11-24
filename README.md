@@ -35,7 +35,7 @@ Your submission will include a markdown file titled, "results.md" and two text f
 
 ### Build Another Circuit of Your Choice
 
-1. Choose another 74 series IC ship from those available in the lab.  Be sure you look it up before using it so you understand how the pins are set up and which logical functions it utilizes.
+1. Choose another 74 series IC chip from those available in the lab.  Be sure you look it up before using it so you understand how the pins are set up and which logical functions it utilizes.
 2. Build a circuit that visually shows how your logic gate works (as in the previous example).
 3. Build your circuit on the Circuit Simulator App and save it in this repository as "my_logic_circuit.txt".
 4. Describe what your circuit does in your "results.md" file and include a video of the prototype working.
